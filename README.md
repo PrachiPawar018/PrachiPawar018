@@ -10,7 +10,7 @@
 ## 🚀 Current Projects
 
 🔹 **HelpReach** – A platform designed to connect people with urgent support and resources.  
-🔹 **MindPulse** – A mental wellness and awareness focused application.  
+🔹 **MindGuardian** – A mental wellness and awareness focused application.  
 🔹 **Emergency SOS System** – Quick response safety solution for emergency situations.  
 
 ---
