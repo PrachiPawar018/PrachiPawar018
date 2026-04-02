@@ -82,8 +82,7 @@ A simple React-based dice roller application built to practice UI interaction an
 
 📧 Email: prachipawar5133@gmail.com  
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/prachi-pawar-34156930a/
+💼 LinkedIn: https://www.linkedin.com/in/prachi-pawar-34156930a/
 
 ---
 
