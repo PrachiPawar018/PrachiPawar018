@@ -39,7 +39,7 @@
 ---
 
 #### 💪 [Protein Gallery](https://github.com/PrachiPawar018/Protein-Gallery) — Android Gallery App
-> A gallery application built with Java and Android.
+> A full-stack Java e-commerce website for fitness supplements built with Servlets, JSP, MySQL & Razorpay.
 
 `Java` `Android`
 
