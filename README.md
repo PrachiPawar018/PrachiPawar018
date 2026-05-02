@@ -1,89 +1,120 @@
-<h1 align="center">Hi 👋, I'm Prachi Pawar</h1>
-<h3 align="center">Computer Engineering Student | Full Stack Enthusiast | Hackathon Builder</h3>
+<div align="center">
+██████╗ ██████╗  █████╗  ██████╗██╗  ██╗██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██║
+██████╔╝██████╔╝███████║██║     ███████║██║
+██╔═══╝ ██╔══██╗██╔══██║██║     ██╔══██║██║
+██║     ██║  ██║██║  ██║╚██████╗██║  ██║██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝
+Prachi Pawar
+// diploma_cse · web_dev · android_dev · always_learning
+Show Image
+Show Image
+Show Image
+Show Image
+Diploma CSE student at Zeal Polytechnic, Pune building real-world apps that solve real problems.
+From QR billing systems to food-waste platforms — I ship code that matters.
+<br>
+🗂 Repositories📊 2nd Year Score🏅 Certifications7+96.01%6+
+</div>
 
----
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+🌱 HelpReach
 
-🎓 Computer Engineering Student passionate about building real-world applications  
-💻 Interested in Full Stack Development and problem solving  
-🚀 Active Hackathon Participant building impactful tech solutions  
-🌱 Continuously improving development, design, and collaboration skills  
+Social Impact · Food Waste Reduction
 
----
+A platform connecting donors with NGOs to reduce food waste through real-time communication, structured data flow, and transparent donation tracking.
+Java Android Real-time NGO Social Impact
+Show Image
+</td>
+<td width="50%" valign="top">
+🛒 SmartMart
 
-## 🚀 Featured Projects
+Retail Tech · Android App
 
-🔹 **HelpReach**  
-A platform designed to connect people with urgent support and resources during emergencies.
+Android app where customers scan QR codes, auto-build a cart, and pay via Razorpay — eliminating manual billing errors entirely.
+Java XML Android Studio Razorpay QR Code
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🧠 MindGuardian
 
-🔹 **MindGuardian**  
-A mental wellness awareness application focused on supporting youth mental health.
+Mental Health · Youth Awareness
 
-🔹 **Developer Portfolio (Animated)**  
-An interactive animated developer portfolio showcasing projects, skills, and experience.
+Mental wellness awareness app focused on supporting youth mental health with accessible resources and guided tools.
+JavaScript Awareness Youth Wellness
+Show Image
+</td>
+<td width="50%" valign="top">
+💪 Protein Gallery (Active)
 
-🔹 **Roll the Dice (Micro Project)**  
-A simple React-based dice roller application built to practice UI interaction and component logic.
+Latest Project · Updated 2 days ago
 
----
+A gallery application built with Java — my most recently active repository.
+Java Android Active
+Show Image
+</td>
+</tr>
+</table>
 
-## 🏆 Hackathons & Learning
+🛠 Tech Stack
+Languages        │  Java · Python · C · C++ · Kotlin (beginner)
+Web              │  HTML5 · CSS3 · JavaScript · JSP
+Android & DB     │  Android Studio · MySQL · DBMS · DSA
+Currently        │  Backend Dev · Full Stack · UI/UX · Cloud Computing
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Web
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Databases
+Show Image
+Show Image
+Show Image
+Show Image
 
-🏅 Participating in hackathons to build innovative solutions  
-💡 Transforming ideas into working prototypes  
-📈 Improving problem solving and development skills  
-🤝 Collaborating with teams and learning real-world workflows  
+📚 My Journey
+2022 ──●── 10th SSC · 92% · D.D.P. Highschool Sarole · Maharashtra Board
+       │
+2023 ──●── Diploma CSE, 1st Year · 90.88% · Zeal Polytechnic, Pune
+       │
+2024 ──●── Diploma CSE, 2nd Year · 96.01% · Zeal Polytechnic, Pune
+       │
+2025 ──●── Web Dev Internship · Mass Technologies · Jun–Sep 2025
+       │      Responsive UI · Forms · Backend Basics · Real-world Workflows
+       │
+2025 ──●── HelpReach launched · MindGuardian shipped · Portfolio live
+       │
+NOW  ──◉── Building · Learning · Open to opportunities
 
----
+🏅 Certifications
+CertificateIssuerYear🤖 AI Tools & ChatGPT WorkshopBe10xNov 2025📋 Project ManagementVerified Assessment2025🐍 Python Internship (7-Day)iBase Electrosoft LLP—🎨 Introduction to UI/UXInfosys Springboard—🌐 HTML TrainingPB TechDream · iBase—💻 Blind CodingTechCarnival at Zeal—
 
-## 🌱 Currently Improving
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
 
-• Advanced Java  
-• Backend Development  
-• Full Stack Development  
-• UI / UX Design  
-• Software Testing & Deployment  
+🌐 Connect
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JSP](https://img.shields.io/badge/JSP-red?style=for-the-badge)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-
----
-
-## 📊 GitHub Stats
-
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiPawar018&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrachiPawar018&theme=tokyonight)
-
----
-
-## 🌐 Portfolio
-
-🚧 Animated Developer Portfolio – Coming Soon  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: prachipawar5133@gmail.com  
-
-💼 LinkedIn: https://www.linkedin.com/in/prachi-pawar-34156930a/
-
----
-
-⭐ *Building technology that creates real impact.*
+<div align="center">
+// open_to_opportunities · building_in_public · learning_every_day
+📍 Pune, Maharashtra · +91 8530932462
+</div>
